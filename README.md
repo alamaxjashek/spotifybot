@@ -7,4 +7,4 @@ Readme Included
 
 Link: https://www51.zippyshare.com/v/XRT6DiRf/file.html
 
-there is a bug, figuring out with dev..
+Ps: use correct config. It is basically made for looping stuff like playlist. So, do your settings accordingly.
