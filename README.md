@@ -11,4 +11,6 @@ Link (Backup): https://anonfiles.com/PeT1Q73eo7/Spotify_Automax_V3_zip
 
 Ps: use correct config. It is basically made for looping stuff like playlist. So, do your settings accordingly.
 
-Settings I use: https://i.imgur.com/e9w9igM.png
+Settings I use: https://i.imgur.com/ta8Ss6y.png
+
+(had to blackout the identifiable information)
