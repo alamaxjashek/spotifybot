@@ -14,3 +14,6 @@ Ps: use correct config. It is basically made for looping stuff like playlist. So
 Settings I use: https://i.imgur.com/ta8Ss6y.png
 
 (had to blackout the identifiable information)
+
+
+Donations: 13nBLdkL5uPmowcPWNGrR4vBef215zBK6X (BTC)
