@@ -20,3 +20,8 @@ Settings I use: https://i.imgur.com/ta8Ss6y.png (old version, )
 Donations: 13nBLdkL5uPmowcPWNGrR4vBef215zBK6X (BTC)
 
 You can also bot as a donation on the default link. But be carefull not to bot more then 1k streams per song per day, and if you do this use hq proxies.
+
+
+(Zip on github is without requirements)
+
+You need a matching chromedriver and chrome installation, dotnet4.0 atleast, and getting the VisualC binairies is also recommended!
