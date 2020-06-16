@@ -5,10 +5,6 @@ Spotify bot, which uses chromedriver.
 Readme & dependencies Included
 
 
-Link: https://www81.zippyshare.com/v/EKY4EDL5/file.html
-
-Link (Backup): https://anonfiles.com/74q3v3Ado9/Spotify_Automax_V3_-_Custom_zip
-
 Ps: use correct config. It is basically made for looping stuff like playlist. So, do your settings accordingly.
 New version allows use of range in which it jumps to next song.
 
@@ -25,3 +21,5 @@ You can also bot as a donation on the default link. But be carefull not to bot m
 (Zip on github is without requirements)
 
 You need a matching chromedriver and chrome installation, dotnet4.0 atleast, and getting the VisualC binairies is also recommended!
+
+note: I have taken this offline due to traceback.
